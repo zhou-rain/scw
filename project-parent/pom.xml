@@ -31,7 +31,7 @@
 
         <!--功能组件-->
         <poi.version>3.16</poi.version> <!-- Excel导入导出-->
-        <quartz.version>2.2.3</quartz.version> <!-- 任务调度-->
+        <quartz.version>2.3.2</quartz.version> <!-- 任务调度-->
 
         <!--数据库-->
         <druid.version>1.1.20</druid.version>
